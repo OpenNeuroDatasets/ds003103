@@ -1,5 +1,5 @@
 {
-	"TaskName": "cpshop"
+	"TaskName": "cpshop",
 	"Modality": "MR",
 	"MagneticFieldStrength": 3,
 	"ImagingFrequency": 127.764,
